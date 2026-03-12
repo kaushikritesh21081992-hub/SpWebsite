@@ -1,1 +1,2 @@
-this page stores user`s details
+this page stores user`s details 
+nothing new added
